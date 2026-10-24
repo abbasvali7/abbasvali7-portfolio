@@ -1,0 +1,6 @@
+{
+  "name": "Jack -- 3D Creator",
+  "description": "Portfolio landing page for Jack, a 3D Creator and aspiring full stack creative developer specializing in 3D modeling, rendering, motion design, branding, and web design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
